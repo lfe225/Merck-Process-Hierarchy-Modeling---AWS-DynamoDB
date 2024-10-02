@@ -19,6 +19,7 @@ The **Merck Process Hierarchy Modeling** project is a command-line application t
 
 - Go programming language (version x.x.x or higher)
 - AWS SDK for Go (for DynamoDB operations)
+- Configuring AWS Environment 
 
 ## Usage
 
