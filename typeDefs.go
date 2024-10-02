@@ -1,5 +1,5 @@
 /*
- * This package includes code inspired by the work of:
+ * This package includes code by:
  *
  * Author: Brett Duersch
  * Title: Merck Process Hierarchy Modeling
